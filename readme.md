@@ -1,5 +1,7 @@
 # Statistical Simulation with Python
 
+![data generation process](img/data_gen_proc.png)
+
 ## 1- Description
 
 Simulations are a class of computational algorithms that use the relatively simple idea of random sampling to solve increasingly complex problems. Although they have been around for ages, they have gained in popularity recently due to the rise in computational power and have seen applications in multiple domains including Artificial Intelligence, Physics, Computational Biology and Finance just to name a few.
